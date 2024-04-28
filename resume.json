@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Amirmohammad Amin Beidokhti",
+    "age": "26",
+    "email": "n11417137@qut.edu.au",
+    "phone": "+61 498 765 432",
+    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+    "location": {
+      "address": "Pallara",
+      "postalCode": "4110",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia"
+    },
+  },
+  "work": [
+    {
+      "company": "Silk Road Kebab House",
+      "position": "Cook",
+      "startDate": "September 2021",
+      "endDate": "current",
+      "summary": "The heart of the house is the kitchen and I make this heart beat. It is my mission to bring a smile of satisfaction to your face by combining food with love.",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queensland University of Technology",
+      "degree": "Master of Information Technology",
+      "startDate": "July 2023",
+      "endDate": "June 2025",
+    },
+    {
+      "institution": "University of Tehran",
+      "degree": "Bachelor of Computer Engineering",
+      "startDate": "September 2016",
+      "endDate": "September 2021",
+    }
+  ],
+  
+  "skills": [ "Wok Chef", "Salad Chef", "Kebab Griller", "Sauce Maker"  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Limited Working"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "keywords": ["Curry", "Bread", "Cake"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Football", "Vollyball"]
+    },
+    {
+    "name": "Musik",
+      "keywords": ["Jazz", "Pop"]
+    },
+    {
+      "name": "Musical instrument",
+      "keywords": ["Cello", "Violin"]
+    }
+  ]
+}
